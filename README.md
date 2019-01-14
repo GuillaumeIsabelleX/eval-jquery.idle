@@ -1,3 +1,9 @@
+# @STCGOAL Presence Detection
+@v Know if user is there or not, if UI is in use or not and execute action depending on that.  
+@a Use it for detecting if focus on message.  
+
+
+
 # jQuery Idle
 
 A dead simple jQuery plugin that executes a callback function if the user is idle.
